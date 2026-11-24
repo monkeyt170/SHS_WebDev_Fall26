@@ -19,3 +19,12 @@ th {
 	color: #ffffff;
 	background-color: #003366;
 }
+
+body {
+  background-image: url("../images/zekrom.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #1a1a1a;
+  min-height: 100vh;
+}
